@@ -4,6 +4,7 @@ using namespace std;
 
 class Employee{
     public:
+        //Attributes
         string name;
         int salary;
 
